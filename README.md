@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kennedymartinez@outlook.com.br**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I play guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
