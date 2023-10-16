@@ -1,15 +1,15 @@
-<h1 align="center">Hi, I'm Kennedy Martinez 👋</h1>
+<h1 align="center">Hi, I'm Kennedy 👋</h1>
 <h3 align="center">A passionate mobile developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Multpex Tech**
+- 🔭 I’m currently working on **60 dias**
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 💬 Ask me about **Android**
 
-- 📫 How to reach me **kennedymartinez@outlook.com.br**
+- 📫 How to reach me **kennedydefreitasmendes@gmail.com**
 
 - ⚡ Fun fact **I play guitar**
 
